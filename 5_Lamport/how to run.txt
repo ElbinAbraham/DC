@@ -1,0 +1,5 @@
+only 1 terminal required
+
+command : java Main.java
+
+the image is provided do understand what inputs to give when prompted

@@ -1,0 +1,9 @@
+only 1 terminal required
+
+command : java RicartAgrawala.java
+
+just use the following inputs when prompted
+
+Enter the number of requests: 2
+
+Enter process (0, 1, or 2) requesting the resource: 0 2

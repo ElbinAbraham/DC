@@ -1,0 +1,6 @@
+open two different cmds
+
+1st terminal do java Server.java
+2nd terminal do java Client.java
+
+then in client enter something like 5 + 3 to get answer

@@ -1,0 +1,6 @@
+open two different cmds
+
+1st terminal do java ArithmeticServer.java
+2nd terminal do java ArithmeticClient.java
+
+then in client terminal follow according to the Menu
